@@ -25,11 +25,11 @@ a partir de um determinado investimento em publicidade.
 | newspaper   | Investimento Newspaper |
 | sales       | Valor das vendas       |
 
-> **Desenvolvimento**
+> **Desenvolvimento:**
 
-## O desafio foi desenvolvido em 4 etapas:
+O desafio foi desenvolvido em 4 etapas:
 
-1- Análise Descritiva
+1- Análise Descritiva 
   
   Esta etapa consiste em explorar os dados do dataset para compreender melhor as
 variáveis e identificar problemas. Para isso, é recomendado utilizar a biblioteca
