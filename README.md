@@ -2,7 +2,7 @@
 
 Este modelo foi desenvolvido atráves de um desafio proposto na minha formação em dados.
 
-> Contextualizando:
+> **Contextualizando:**
 
 Uma empresa está investindo mensalmente em plataformas de publicidade online,
 como Youtube, Facebook e newspaper, para a prospecção de leads (pessoas
