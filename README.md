@@ -58,6 +58,7 @@ vendas que pode ser gerado a partir de um determinado investimento em publicidad
 assim, poderemos apresentá-lo a empresa.
 
 > Conclusão:
+
 Através dessas previsões, a empresa poderá avaliar o impacto dos diferentes níveis de
 investimento em marketing nas vendas, auxiliando na tomada de decisões e na
 definição de estratégias de negócio.
