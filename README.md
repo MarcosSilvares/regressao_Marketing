@@ -16,7 +16,7 @@ análise de um especialista em dados. Além disso, a empresa busca criar um
 modelo de predição de valores para estimar o retorno de vendas que pode ser gerado
 a partir de um determinado investimento em publicidade.
 
-> Sobre os Dados:
+> **Sobre os Dados:**
 
 | Coluna      | Descrição   | 
 |-------------|-------------|
@@ -25,7 +25,7 @@ a partir de um determinado investimento em publicidade.
 | newspaper   | Investimento Newspaper |
 | sales       | Valor das vendas       |
 
-> Desenvolvimento:
+> **Desenvolvimento**
 
 ## O desafio foi desenvolvido em 4 etapas:
 
@@ -57,7 +57,7 @@ regressão construído nas etapas anteriores para realizar as previsões de reto
 vendas que pode ser gerado a partir de um determinado investimento em publicidade e
 assim, poderemos apresentá-lo a empresa.
 
-> Conclusão:
+> **Conclusão:**
 
 Através dessas previsões, a empresa poderá avaliar o impacto dos diferentes níveis de
 investimento em marketing nas vendas, auxiliando na tomada de decisões e na
