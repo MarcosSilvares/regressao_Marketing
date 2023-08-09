@@ -20,7 +20,7 @@ a partir de um determinado investimento em publicidade.
 
 | Coluna      | Descrição   | 
 |-------------|-------------|
-| youtube     | Dado 2      | 
-| facebook    | Dado 5      |
-| newspaper   |             |
-| sales       |             |
+| youtube     | Investimento Youtube   | 
+| facebook    | Investimento Facebook  |
+| newspaper   | Investimento Newspaper |
+| sales       | Valor das vendas       |
